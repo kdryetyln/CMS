@@ -1,0 +1,142 @@
+﻿@model List<CMS.Common.Models.Page.PageDto>
+@{
+                /**/
+
+                ViewBag.Title = "EditPage";
+                Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="row">
+
+    <div class="col-lg-12">
+        <div class="portlet light portlet-fit bordered">
+            <div class="portlet-title">
+                <div class="caption">
+                    <i class="icon-directions font-green hide"></i>
+                    <span class="caption-subject bold font-dark uppercase "> Page Layout List</span>
+                </div>
+                <div class="actions">
+                    <div class="btn-group">
+                        <a class="btn blue btn-outline btn-circle btn-sm" href="javascript:;" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
+                            Actions
+                            <i class="fa fa-angle-down"></i>
+                        </a>
+                        <ul class="dropdown-menu pull-right">
+                            <li>
+                                <a href="/Layout/Insert"> New Layout</a>
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="portlet-body">
+                <div id="dtlLayout" class="">
+                    <table id="tblList" class="display" style="width:100%;">
+                        <thead>
+                            <tr style="text-align:center;font-weight:bolder;color:red">
+                                <td>Page Name</td>
+                                <td>Layout</td>
+                                <td>Select Page</td>
+                                <td>Preview</td>
+                                <td>Publish</td>
+                                <td>Delete</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr style="text-align:center">
+                                    <td>
+                                        @item.PageName
+                                    </td>
+                                    <td>
+                                        @item.LayoutName
+                                    </td>
+                                    <td>
+                                        <a class="btn btn-info" sectionId="@item.LayoutId" sectionId2="@item.PageId"> <span class="glyphicon glyphicon-ok"></span></a>
+                                    </td>
+                                    <td>
+                                        <form action="/Page/Preview/@item.PageId" method="post"><button class="btn btn-info"> <span class="glyphicon glyphicon-eye-open"></span> </button></form>
+                                    </td>
+                                    <td>
+                                        <form action="/Page/PublishPage/@item.PageId" method="post">
+                                            @if (item.IsPublish == false)
+                                            {
+                                                <button class="btn btn-info"><span class="glyphicon glyphicon-globe"></span></button>
+                                            }
+                                            else
+                                            {
+                                                <button class="btn btn-warning"><span class="glyphicon glyphicon-globe"></span></button>
+                                            }
+                                        </form>
+                                    </td>
+                                    <td>
+                                        <button class="btn btn-danger" onclick="Delete(@item.PageId)" type="button"> <span class="glyphicon glyphicon-trash"></span> </button>
+                                    </td>
+                                </tr>
+                            }
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row" id="clickbutton">
+        <a name="EditPage" class="btn btn-circle btn-info pull-right" style="margin-right:55px;margin-bottom:15px">Edit Page</a>
+    </div>
+    <form action="/Page/AddContent" method="post">
+
+        <div class="row" id="content">
+        </div>
+
+        <div class="row" id="clickbutton2">
+            <button class="btn btn-circle btn-info pull-right" style="margin-right:25px;margin-top:15px" type="submit">Save Page Content</button>
+        </div>
+    </form>
+</div>
+@section scripts{
+    <script>
+        var layID = 100;
+        var pageId = 100;
+        $('#dtlLayout a').click(function () {
+            layID = $(this).attr('sectionId');
+            pageId = $(this).attr('sectionId2');
+        });
+
+        $('#clickbutton a').click(function () {
+            if (layID != "") {
+                $.ajax({
+                    type: "Post",
+                    url: "/Page/GetItems",
+                    data: { "id": pageId }
+                }).done(function (data) {
+                    $("#content").html(data);
+                    console.log(layID);
+                    $("#content").append("<textarea style='display:none;'name='id'>" + pageId + "</textarea>")
+                }).fail(function () {
+                    alert("Error!!!")
+                })
+            }
+        });
+
+        function Delete(id) {
+            var result = confirm("Are you sure?");
+            if (result) {
+                $.ajax({
+                    type: "Post",
+                    url: "/Page/DeletePage",
+                    data: { "id": id }
+                }).done(function (data) {
+                    alert("Deleted Success");
+                    location.reload();
+                }).fail(function () {
+                    alert("Ooopppsss!!!!");
+                });
+            }
+        }
+
+    </script>
+    <script src="https://cdn.ckeditor.com/ckeditor5/11.0.1/classic/ckeditor.js"></script>
+}

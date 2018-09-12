@@ -1,0 +1,45 @@
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Domain\bin\Debug\CMS.Domain.dll.config
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Domain\bin\Debug\CMS.Domain.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Domain\bin\Debug\CMS.Domain.pdb
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Domain\bin\Debug\EntityFramework.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Domain\bin\Debug\EntityFramework.xml
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Domain\obj\Debug\CMS.Domain.csprojAssemblyReference.cache
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Domain\obj\Debug\CMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Domain\obj\Debug\CMS.Domain.csproj.CopyComplete
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Domain\obj\Debug\CMS.Domain.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Domain\obj\Debug\CMS.Domain.pdb
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Domain\bin\Debug\CMS.Domain.dll.config
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Domain\bin\Debug\CMS.Domain.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Domain\bin\Debug\CMS.Domain.pdb
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Domain\bin\Debug\EntityFramework.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Domain\bin\Debug\EntityFramework.xml
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Domain\obj\Debug\CMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Domain\obj\Debug\CMS.Domain.csproj.CopyComplete
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Domain\obj\Debug\CMS.Domain.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Domain\obj\Debug\CMS.Domain.pdb
+C:\Users\kadri\source\repos\MyCMS\CMS.Domain\bin\Debug\CMS.Domain.dll.config
+C:\Users\kadri\source\repos\MyCMS\CMS.Domain\bin\Debug\CMS.Domain.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.Domain\bin\Debug\CMS.Domain.pdb
+C:\Users\kadri\source\repos\MyCMS\CMS.Domain\bin\Debug\EntityFramework.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.Domain\bin\Debug\EntityFramework.xml
+C:\Users\kadri\source\repos\MyCMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kadri\source\repos\MyCMS\CMS.Domain\obj\Debug\CMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kadri\source\repos\MyCMS\CMS.Domain\obj\Debug\CMS.Domain.csproj.CopyComplete
+C:\Users\kadri\source\repos\MyCMS\CMS.Domain\obj\Debug\CMS.Domain.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.Domain\obj\Debug\CMS.Domain.pdb
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Domain\bin\Debug\CMS.Domain.dll.config
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Domain\bin\Debug\CMS.Domain.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Domain\bin\Debug\CMS.Domain.pdb
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Domain\bin\Debug\EntityFramework.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Domain\bin\Debug\EntityFramework.xml
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Domain\obj\Debug\CMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Domain\obj\Debug\CMS.Domain.csproj.CopyComplete
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Domain\obj\Debug\CMS.Domain.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Domain\obj\Debug\CMS.Domain.pdb

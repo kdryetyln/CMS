@@ -1,0 +1,53 @@
+﻿
+@{
+                /**/
+
+                ViewBag.Title = "SinglePage";
+                Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="col-lg-4">
+    <div class="w3-content w3-display-container">
+        @foreach (var image in ViewBag.slider)
+        {
+            <img class="mySlides" src="http://localhost:57680/Content/images/@image.Name" style="width:100%">
+        }
+
+
+
+        <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+        <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+    </div>
+</div>
+@{
+    foreach (var item in ViewBag.preview)
+    {
+
+        <div class="@item.classtype" id="@item.divs" style="border-color:aliceblue">
+            @Html.Raw(HttpUtility.HtmlDecode(item.Content))
+        </div>
+    }
+}
+
+
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";
+  }
+  x[slideIndex-1].style.display = "block";
+}
+</script>

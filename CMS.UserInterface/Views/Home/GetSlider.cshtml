@@ -1,0 +1,38 @@
+﻿
+@model IEnumerable<CMS.Domain.Models.Slider>
+@{
+    /**/
+
+    ViewBag.Title = "GetSlider";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<link href="~/Content/slider.css" rel="stylesheet" />
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+<div class="container">
+    <div class="row">
+        <!-- for more info please get touch with me by droping a email to me   akj114912@gmail.com -->
+        <div id="wrapper">
+            <div id="image">
+                @{ var sayi = 1;
+
+                }
+                @foreach (var item in Model)
+                {
+                    var x = " image i" + sayi;
+                    <div class="@x"><img src="http://localhost:57680/Content/images/@item.ImageUrl" style="height: 300px;width: 400px;" title="" alt=""></div>
+                    sayi++;
+                }
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@*<script src="~/Scripts/slider.js"></script>*@

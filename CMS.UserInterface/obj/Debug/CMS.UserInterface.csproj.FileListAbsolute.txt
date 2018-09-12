@@ -1,0 +1,398 @@
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\ApplicationInsights.config
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\CMS.UserInterface.dll.config
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\CMS.UserInterface.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\CMS.UserInterface.pdb
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\csc.exe
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\csc.exe.config
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\csc.rsp
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\csi.exe
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\csi.exe.config
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\csi.rsp
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\System.AppContext.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\System.Console.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\System.IO.Compression.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\System.IO.Pipes.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.Claims.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\System.ValueTuple.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\vbc.exe
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\vbc.exe.config
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\vbc.rsp
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\VBCSCompiler.exe
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\Antlr3.Runtime.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\EntityFramework.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\EntityFramework.SqlServer.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\Microsoft.AI.Web.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\Microsoft.ApplicationInsights.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\Newtonsoft.Json.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\System.Web.Helpers.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\System.Web.Mvc.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\System.Web.Optimization.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\System.Web.Razor.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\System.Web.WebPages.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\System.Web.WebPages.Razor.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\WebGrease.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\EntityFramework.xml
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\EntityFramework.SqlServer.xml
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\System.Web.Helpers.xml
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\System.Web.Mvc.xml
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\System.Web.Optimization.xml
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\System.Web.Razor.xml
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\System.Web.WebPages.xml
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\System.Web.WebPages.Razor.xml
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\Newtonsoft.Json.xml
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\Antlr3.Runtime.pdb
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\Microsoft.AI.Web.xml
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\obj\Debug\CMS.UserInterface.csprojAssemblyReference.cache
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\obj\Debug\CMS.UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\obj\Debug\CMS.UserInterface.csproj.CopyComplete
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\obj\Debug\CMS.UserInterface.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.UserInterface\obj\Debug\CMS.UserInterface.pdb
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\ApplicationInsights.config
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\CMS.UserInterface.dll.config
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\CMS.UserInterface.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\CMS.UserInterface.pdb
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\csc.exe
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\csc.exe.config
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\csc.rsp
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\csi.exe
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\csi.exe.config
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\csi.rsp
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\System.AppContext.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\System.Console.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\System.IO.Compression.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\System.IO.Pipes.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.Claims.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\System.ValueTuple.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\System.Xml.XPath.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\vbc.exe
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\vbc.exe.config
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\vbc.rsp
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\VBCSCompiler.exe
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\Antlr3.Runtime.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\EntityFramework.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\EntityFramework.SqlServer.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\Microsoft.AI.Web.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\Microsoft.ApplicationInsights.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\Newtonsoft.Json.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\System.Web.Helpers.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\System.Web.Mvc.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\System.Web.Optimization.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\System.Web.Razor.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\System.Web.WebPages.Deployment.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\System.Web.WebPages.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\System.Web.WebPages.Razor.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\WebGrease.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\EntityFramework.xml
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\EntityFramework.SqlServer.xml
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\System.Web.Helpers.xml
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\System.Web.Mvc.xml
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\System.Web.Optimization.xml
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\System.Web.Razor.xml
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\System.Web.WebPages.xml
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\System.Web.WebPages.Deployment.xml
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\System.Web.WebPages.Razor.xml
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\Newtonsoft.Json.xml
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\Antlr3.Runtime.pdb
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\Microsoft.AI.Web.xml
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\obj\Debug\CMS.UserInterface.csprojAssemblyReference.cache
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\obj\Debug\CMS.UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\obj\Debug\CMS.UserInterface.csproj.CopyComplete
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\obj\Debug\CMS.UserInterface.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\obj\Debug\CMS.UserInterface.pdb
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\CMS.Common.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\CMS.Domain.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\CMS.Common.pdb
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\CMS.Common.dll.config
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\CMS.Domain.pdb
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.UserInterface\bin\CMS.Domain.dll.config
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\ApplicationInsights.config
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\CMS.UserInterface.dll.config
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\CMS.UserInterface.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\CMS.UserInterface.pdb
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\csc.exe
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\csc.exe.config
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\csc.rsp
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\csi.exe
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\csi.exe.config
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\csi.rsp
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\System.AppContext.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\System.Console.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\System.IO.Compression.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\System.IO.Pipes.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.Claims.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\System.ValueTuple.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\vbc.exe
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\vbc.exe.config
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\vbc.rsp
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\VBCSCompiler.exe
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\Antlr3.Runtime.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\CMS.Common.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\EntityFramework.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\EntityFramework.SqlServer.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\Microsoft.AI.Web.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\Microsoft.ApplicationInsights.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\Newtonsoft.Json.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\System.Web.Helpers.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\System.Web.Mvc.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\System.Web.Optimization.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\System.Web.Razor.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\System.Web.WebPages.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\System.Web.WebPages.Razor.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\WebGrease.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\CMS.Domain.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\CMS.Common.pdb
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\CMS.Common.dll.config
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\EntityFramework.xml
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\EntityFramework.SqlServer.xml
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\System.Web.Helpers.xml
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\System.Web.Mvc.xml
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\System.Web.Optimization.xml
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\System.Web.Razor.xml
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\System.Web.WebPages.xml
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\System.Web.WebPages.Razor.xml
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\Newtonsoft.Json.xml
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\Antlr3.Runtime.pdb
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\Microsoft.AI.Web.xml
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\CMS.Domain.pdb
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\bin\CMS.Domain.dll.config
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\obj\Debug\CMS.UserInterface.csprojAssemblyReference.cache
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\obj\Debug\CMS.UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\obj\Debug\CMS.UserInterface.csproj.CopyComplete
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\obj\Debug\CMS.UserInterface.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.UserInterface\obj\Debug\CMS.UserInterface.pdb
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\ApplicationInsights.config
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\CMS.UserInterface.dll.config
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\CMS.UserInterface.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\CMS.UserInterface.pdb
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\csc.exe
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\csc.exe.config
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\csc.rsp
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\csi.exe
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\csi.exe.config
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\csi.rsp
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\System.AppContext.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\System.Console.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\System.IO.Compression.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\System.IO.Pipes.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.Claims.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\System.ValueTuple.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\vbc.exe
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\vbc.exe.config
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\vbc.rsp
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\VBCSCompiler.exe
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\Antlr3.Runtime.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\CMS.Common.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\EntityFramework.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\EntityFramework.SqlServer.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\Microsoft.AI.Web.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\Microsoft.ApplicationInsights.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\Newtonsoft.Json.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\System.Web.Helpers.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\System.Web.Mvc.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\System.Web.Optimization.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\System.Web.Razor.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\System.Web.WebPages.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\System.Web.WebPages.Razor.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\WebGrease.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\CMS.Domain.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\CMS.Common.pdb
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\CMS.Common.dll.config
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\EntityFramework.xml
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\EntityFramework.SqlServer.xml
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\System.Web.Helpers.xml
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\System.Web.Mvc.xml
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\System.Web.Optimization.xml
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\System.Web.Razor.xml
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\System.Web.WebPages.xml
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\System.Web.WebPages.Razor.xml
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\Newtonsoft.Json.xml
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\Antlr3.Runtime.pdb
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\Microsoft.AI.Web.xml
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\CMS.Domain.pdb
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\bin\CMS.Domain.dll.config
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\obj\Debug\CMS.UserInterface.csprojAssemblyReference.cache
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\obj\Debug\CMS.UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\obj\Debug\CMS.UserInterface.csproj.CopyComplete
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\obj\Debug\CMS.UserInterface.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.UserInterface\obj\Debug\CMS.UserInterface.pdb

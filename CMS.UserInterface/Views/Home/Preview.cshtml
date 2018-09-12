@@ -1,0 +1,30 @@
+﻿@model List<CMS.Common.Models.Page.ContentDto>
+@{
+    /**/
+
+    ViewBag.Title = "Preview";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+
+    @{ var total = 0;
+        foreach (var item in Model)
+        {
+
+            string[] infos = item.Size.Split('-');
+
+            total += int.Parse(infos[2]);
+
+
+            <div class="@item.Size">@Html.Raw(HttpUtility.HtmlDecode(item.Content))</div>
+
+            if (total == 12)
+            {
+                total = 0;
+
+                <div class="clearfix"></div>
+            }
+        }
+    }
+</div>

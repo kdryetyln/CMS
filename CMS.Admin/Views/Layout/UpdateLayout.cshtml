@@ -1,0 +1,202 @@
+﻿@model CMS.Common.Models.Layout.LayoutDto
+@{
+    ViewBag.Title = "UpdateLayout";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<script src="https://cdn.ckeditor.com/ckeditor5/11.0.1/classic/ckeditor.js"></script>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+<h1 class="page-title">
+    Admin Dashboard
+    <small>statistics, charts, recent events and reports</small>
+</h1>
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Select Columns</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <input type="hidden" id="value" />
+                <div class="form-group">
+                    <label for="sel1">Select one:</label>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <select id="types" class="form-control">
+
+                                <option value="small">col-sm</option>
+                                <option value="medium">col-md</option>
+                                <option value="large">col-lg</option>
+
+                            </select>
+                        </div>
+                        <div class="col-md-6">
+                            <select id="sizes" class="form-control">
+                                @for (int i = 1; i < 13; i++)
+                                {
+                                    <option value="@i">@i</option>
+                                }
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="submit" onclick="Update()" class="btn btn-primary" id="Create">Update</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Select Columns</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <input type="hidden" id="value" />
+                <div class="form-group">
+                    <label for="sel1">Select one:</label>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <select id="types2" class="form-control">
+
+                                <option value="small">col-sm</option>
+                                <option value="medium">col-md</option>
+                                <option value="large">col-lg</option>
+
+                            </select>
+                        </div>
+                        <div class="col-md-6">
+                            <select id="sizes2" class="form-control">
+                                @for (int i = 1; i < 13; i++)
+                                {
+                                    <option value="@i">@i</option>
+                                }
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button type="submit" onclick="newItem()" class="btn btn-primary" id="Create">Add Item</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="portlet light portlet-fit bordered">
+            <div class="portlet-body">
+                <div class="caption">
+                    <i class="icon-directions font-green hide"></i>
+                    <button type="button" class="w3-button w3-large w3-circle w3-teal pull-right circle" data-toggle="modal"  data-target="#exampleModal2">
+                        +
+                    </button>
+                </div>
+            </div>
+            <div class="portlet-body">
+                <div class="form-body">
+                    <form id="frmNewLayout" method="post" action="/Layout/UpdateLayout/@Model.Id">
+                        <input type="hidden" name="Id" value="@Model.Id" />
+                        <div class="form-group form-md-line-input">
+                            <input type="text" name="Name" class="form-control" id="form_control_1" placeholder="Enter layout name" value="@Model.Name">
+                            <label for="form_control_1">Layout Name</label>
+                        </div>
+                        <div class="row">
+
+                        </div>
+                        <div id="dtlLayoutItem" class="row padding-tb-15">
+                        </div>
+
+
+                        <div id="dtlLayoutItemTest" class="row padding-tb-15">
+                            @foreach (var item in Model.PLItems)
+                            {
+                                <div class="@item.SizeValue" id="txtdiv_@item.Order">
+                                    <div class="input-group">
+                                        <input type="text" name="List[]" class="form-control" readonly value="@item.SizeValue" id="txt_@item.Order">
+                                        <input type="hidden" name="Order[]" value="@item.Order">                                        
+                                        <span class="input-group-btn"><button onclick="get(@item.Order)" class="btn blue" type="button" data-toggle="modal" data-target="#exampleModal"><i class="fa fa-edit"></i></button></span>
+                                    </div>
+                                </div>
+                            }
+
+                        </div>
+                        <div id="dtlLayoutItemSize" class="row padding-tb-15">
+                        </div>
+                        <div class="form-actions noborder">
+                            <button class="btn btn-danger" onclick="location.href = '/Layout/List'; return false;">Cancel</button>
+                            <button class="btn btn-primary pull-right">Update</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+
+    function get(item) {
+        var order = item;
+        $(".modal-body #value").val(order);
+    };
+
+    function getColumnType() {
+        var col = $("#types option:selected").text();
+        var size = $("#sizes option:selected").text();
+
+
+        $("#dtlLayoutItemTest").on("click", "#buttonSil",
+            function (e) {
+                e.preventDefault;
+                alert("silindi");
+                $(this).parent().parent().remove();
+            });
+
+    }
+
+    function Update() {
+        var kolon = $("#types option:selected").text();
+        var size = $("#sizes option:selected").text();
+        var itemid = $("#value").val();
+        //alert(itemid);
+        $("#txt_" + itemid).val(kolon + "-" + size);
+        //$("#txtdiv_" + itemid).class(kolon + "-" + size);
+        document.getElementById("txtdiv_" + itemid).className = kolon + "-" + size;
+    }
+
+    function newItem() {
+        alert("Başarılı");
+        var kolon = $("#types2 option:selected").text();
+        var size = $("#sizes2 option:selected").val();
+        console.log(size);
+        console.log(kolon);
+        $("#dtlLayoutItemTest").append(
+            '<div id="colonWith" class="' + kolon + '-' + size + '"><div class="input-group"><input type="text" name="List[]" class="form-control" readonly value="' + kolon + '-' + size + '"><span class="input-group-btn"><button id="buttonSil" class="btn btn-danger" type="button"><i class="fa fa-trash"></i></button></span></div></div>');
+        $("#dtlLayoutItemTest").on("click", "#buttonSil",
+            function (e) {
+                e.preventDefault;
+                alert("silindi");
+                $(this).parent().parent().remove();
+            });
+
+    }
+</script>
+

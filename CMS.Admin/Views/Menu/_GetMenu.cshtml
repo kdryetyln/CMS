@@ -1,0 +1,10 @@
+﻿@model List<CMS.Common.Models.Menu.MenuDto>
+
+<label for="sel1">Select list (select one):</label>
+<select class="form-control" id="selected" >
+    <option value="select">Select one page</option>
+    @foreach (var item in Model)
+    {
+        <option value="@item.MenuId">@item.MenuName</option>
+    }
+</select>

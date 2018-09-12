@@ -1,0 +1,198 @@
+﻿@model IEnumerable<CMS.Domain.Models.Page>
+
+@{
+    ViewBag.Title = "GetPages";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<div class="col-md-5">
+    <!-- BEGIN SAMPLE TABLE PORTLET-->
+    <div class="portlet">
+        <div class="portlet-title">
+            <div class="caption">
+                <i class="fa fa-magic"></i>Menu Creation Table
+            </div>
+            <div class="tools">
+                <a href="javascript:;" class="collapse" data-original-title="" title=""> </a>
+                <a href="javascript:;" class="reload" data-original-title="" title=""> </a>
+
+            </div>
+        </div>
+        <div class="portlet-body" style="display: block;">
+            <div class="table-scrollable">
+                <table class="table table-striped table-bordered table-advance table-hover">
+                    <thead>
+                        <tr>
+                            <th style="width:20%">
+                                <i class="fa fa-file-archive-o"></i> Pages
+                            </th>
+                            <th class="hidden-xs" style="width:25%">
+                                <i class="fa fa-plus"></i> Add
+                            </th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td class="highlight">
+                                    <div class="success"></div>
+                                    <a href="javascript:;"> @item.Name </a>
+                                    <input type="hidden" pageID="@item.Id" />
+                                </td>
+                                <td>
+                                    <button href="javascript:;" type="submit" onclick="CreateMenu(@item.Id)" class="btn btn-outline btn-circle btn-sm purple-intense">
+                                        <i class="fa fa-plus-circle">Add</i>
+                                    </button>
+                                    <button class="btn btn-outline btn-circle btn-sm green-jungle" onclick="GetSubID(@item.Id)" type="button" id="itembuton" data-toggle="modal" data-target="#myModal">
+                                        <i class="fa fa-plus-circle">Add Sub</i>
+                                    </button>
+                                </td>
+
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <!-- END SAMPLE TABLE PORTLET-->
+</div>
+
+<div class="col-md-4" id="menus">
+
+</div>
+
+<div class="col-md-5" id="menuList">
+
+</div>
+
+
+
+
+
+
+<div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Modal Header</h4>
+            </div>
+            <div class="modal-body" id="content">
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-info" onclick="addSub()">Add Sub Menu</button>
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<script>
+    $.ajax({
+        url: "/Menu/GetMenu2"
+    }).done(function (data) {
+        $("#menus").html(data);
+    });
+
+
+    function GetSubItem(item) {
+        $.ajax({
+            type: "Post",
+            url: "/Menu/GetMenuResult",
+            data: { "id": item }
+        }).done(function (list) {
+            function buildList(list) {
+                var html = [],
+                    item, next;
+                html.push('<ul>');
+                while (list.length) {
+                    item = list.shift();
+                    next = list[0] || {};
+                    html.push('<li>', item.MenuName);
+                    if (next.ParentID === item.MenuId) {
+                        html.push(buildList(list));
+                    }
+                    html.push('</li>');
+                    next = list[0] || {};
+                    if (next.ParentID !== item.ParentID) {
+                        break;
+                    }
+                }
+                html.push('</ul>');
+                return html.join('');
+            }
+            console.log(list);
+            $("#menuList").html(buildList(list));
+        });
+
+    }
+
+    function Remove(item) {
+        $.ajax({
+            type: "Post",
+            url: "/Menu/RemoveMenu",
+            data: { "id": item },
+        }).done(function (data) {
+            location.reload();
+            alert("Deleted!")
+        })
+
+    }
+
+
+
+    var subitem = null;
+    function GetSubID(item) {
+        subitem = item;
+        $.ajax({
+            url: "/Menu/GetMenu"
+        }).done(function (data) {
+            $("#content").html(data);
+        });
+    }
+
+    function addSub() {
+        var menuid = $("#selected option:selected").val();
+        if (menuid == "select") {
+            alert("Not successful!!")
+        }
+        else {
+
+            $.ajax({
+                type: "Post",
+                url: "/Menu/CreateSubMenu",
+                data: {
+                    "menuid": menuid,
+                    "subid": subitem
+                }
+            }).done(function (data) {
+                location.reload();
+                jsonList();
+            });
+
+        }
+
+    }
+
+    function CreateMenu(item) {
+        $.ajax({
+            type: "Post",
+            url: "/Menu/CreateMenu",
+            data: { "id": item }
+        }).done(function (data) {
+            location.reload();
+            jsonList();
+            
+        });
+    }
+
+
+
+</script>

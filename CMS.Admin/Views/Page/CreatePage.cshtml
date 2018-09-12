@@ -1,0 +1,92 @@
+﻿@model List<CMS.Domain.Models.PageLayout>
+@{
+    ViewBag.Title = "CreatePage";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="row">
+
+    <div class="col-lg-12">
+        <div class="portlet light portlet-fit bordered">
+            <div class="portlet-title">
+                <div class="caption">
+                    <i class="icon-directions font-green hide"></i>
+                    <span class="caption-subject bold font-dark uppercase "> Page Layout List</span>
+                </div>
+                <div class="actions">
+                    <div class="btn-group">
+                        <a class="btn blue btn-outline btn-circle btn-sm" href="javascript:;" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
+                            Actions
+                            <i class="fa fa-angle-down"></i>
+                        </a>
+                        <ul class="dropdown-menu pull-right">
+                            <li>
+                                <a href="/Layout/Insert"> New Layout</a>
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="portlet-body">
+                <div id="dtlLayout" class="">
+                    <table id="tblList" class="display" style="width:100%;">
+                        <thead>
+                            <tr style="text-align:center;font-weight:bolder;color:red">
+                                <td>Name</td>
+                                <td>Select Layout</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr style="text-align:center">
+                                    <td>
+                                        @item.Name
+                                    </td>
+                                    <td>
+                                        <a class="btn btn-info" sectionId="@item.Id"> <span class="glyphicon glyphicon-ok"></span></a>
+                                    </td>
+                                </tr>
+                            }
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    <form action="/Page/CreatePage" method="post">
+        <input type="text" class="form-control" name="namepage" placeholder="Page Name">
+
+        <div id="content" style="margin:15px;">
+
+        </div>
+
+        <button type="submit" style="margin:15px;" class="btn btn-circle btn-info">Create Page</button>
+    </form>
+</div>
+
+
+@section scripts{
+    <script>
+        var valuee = 100;
+
+        $('#dtlLayout a').click(function () {
+            valuee = $(this).attr('sectionId');
+            $.ajax({
+                type: "Post",
+                url: "/Page/GetLayoutItems",
+                data: {
+                    "id": valuee
+                }
+            }).done(function (data) {
+                $("#content").html(data);
+            });
+        });
+
+        
+
+
+    </script>
+}

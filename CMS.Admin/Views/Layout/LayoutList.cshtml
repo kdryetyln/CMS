@@ -1,0 +1,75 @@
+﻿@model IEnumerable<CMS.Common.Models.Layout.LayoutDto>
+@{
+    ViewBag.Title = "LayoutList";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1 class="page-title">
+    Admin Dashboard
+    <small>statistics, charts, recent events and reports</small>
+</h1>
+<div class="row">
+
+    <div class="col-lg-12">
+        <div class="portlet light portlet-fit bordered">
+            <div class="portlet-title">
+                <div class="caption">
+                    <i class="icon-directions font-green hide"></i>
+                    <span class="caption-subject bold font-dark uppercase "> Page Layout List</span>
+                </div>
+                <div class="actions">
+                    <div class="btn-group">
+                        <a class="btn blue btn-outline btn-circle btn-sm" href="javascript:;" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
+                            Actions
+                            <i class="fa fa-angle-down"></i>
+                        </a>
+                        <ul class="dropdown-menu pull-right">
+                            <li>
+                                <a href="/Layout/Insert"> New Layout</a>
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="portlet-body">
+                <div id="dtlLayout" class="">
+                    <table id="tblList" class="display" style="width:100%">
+                        <thead>
+                            <tr>
+                                <td>Name</td>
+                                <td>Editor Count</td>
+                                <td>Actions</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        @item.Name
+                                    </td>
+                                    <td>
+                                        @item.PLItems.Count()
+                                    </td>
+                                    <td>
+                                        <a class="btn btn-info" href="/Layout/Update/@item.Id"> <i class="fa fa-pencil"></i></a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts{
+    <script>
+        $(function () {
+
+            $('#tblList').DataTable();
+        });
+    </script>
+}

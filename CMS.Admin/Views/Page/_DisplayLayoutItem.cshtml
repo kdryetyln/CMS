@@ -1,0 +1,41 @@
+﻿@model List<CMS.Common.Models.Page.ContentDto>
+
+<script src="https://cdn.ckeditor.com/ckeditor5/11.0.1/classic/ckeditor.js"></script>
+
+@{
+    var total = 0;
+
+
+    foreach (var item in Model)
+    {
+
+        string[] infos = item.Size.Split('-');
+
+        total += int.Parse(infos[2]);
+
+        <div class="@item.Size" id="@item.DivId">
+            <textarea id="txt_@item.DivId" name="text[]">@item.Content</textarea>
+            <textarea style="display:none;" name="order[]">@item.DivId</textarea>
+
+        </div>
+
+        if(total>=12)
+        {
+            <div class="clearfix"></div>
+            total = 0;
+        }
+
+        <script>
+        ClassicEditor
+            .create(document.querySelector('#txt_'+@item.DivId),{
+
+            })
+            .catch(error => {
+                console.error(error.stack);
+            });
+
+
+        </script>
+    }
+
+}

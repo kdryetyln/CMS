@@ -1,0 +1,41 @@
+﻿@model IEnumerable<CMS.Domain.Models.PLItem>
+
+<script src="https://cdn.ckeditor.com/ckeditor5/11.0.1/classic/ckeditor.js"></script>
+
+@{
+    var total = 0;
+
+
+    foreach (var item in Model)
+    {
+
+        string[] infos = item.SizeValue.Split('-');
+
+        total += int.Parse(infos[2]);
+        <div class="@item.SizeValue" id="@item.Order">
+            <textarea id="txt_@item.Order" name="text[]"></textarea>
+            <textarea style="display:none;" name="order[]"></textarea>
+            <input type="hidden" name="id" value="@item.PageLayoutId" />
+
+        </div>
+
+        if(total==12)
+        {
+            <div class="clearfix"> </div>
+            total = 0;
+        }
+
+        <script>
+        ClassicEditor
+            .create(document.querySelector('#txt_'+@item.Order),{
+
+            })
+            .catch(error => {
+                console.error(error.stack);
+            });
+
+
+        </script>
+    }
+
+}

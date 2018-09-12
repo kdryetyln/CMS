@@ -1,0 +1,92 @@
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Core\bin\Debug\CMS.Core.dll.config
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Core\bin\Debug\CMS.Core.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Core\bin\Debug\CMS.Core.pdb
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Core\bin\Debug\CMS.Common.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Core\bin\Debug\CMS.Domain.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Core\bin\Debug\EntityFramework.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Core\bin\Debug\CMS.Common.pdb
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Core\bin\Debug\CMS.Common.dll.config
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Core\bin\Debug\CMS.Domain.pdb
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Core\bin\Debug\CMS.Domain.dll.config
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Core\bin\Debug\EntityFramework.xml
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Core\obj\Debug\CMS.Core.csprojAssemblyReference.cache
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Core\obj\Debug\CMS.Core.Migrations._first.resources
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Core\obj\Debug\CMS.Core.Migrations.second.resources
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Core\obj\Debug\CMS.Core.csproj.GenerateResource.cache
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Core\obj\Debug\CMS.Core.csproj.CoreCompileInputs.cache
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Core\obj\Debug\CMS.Core.csproj.CopyComplete
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Core\obj\Debug\CMS.Core.dll
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Core\obj\Debug\CMS.Core.pdb
+C:\Users\kadri\source\repos\yedek my cms\MyCMS\CMS.Core\obj\Debug\CMS.Core.Migrations.third.resources
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Core\bin\Debug\CMS.Core.dll.config
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Core\bin\Debug\CMS.Core.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Core\bin\Debug\CMS.Core.pdb
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Core\bin\Debug\CMS.Common.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Core\bin\Debug\CMS.Domain.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Core\bin\Debug\EntityFramework.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Core\bin\Debug\CMS.Common.pdb
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Core\bin\Debug\CMS.Common.dll.config
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Core\bin\Debug\CMS.Domain.pdb
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Core\bin\Debug\CMS.Domain.dll.config
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Core\bin\Debug\EntityFramework.xml
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Core\obj\Debug\CMS.Core.csprojAssemblyReference.cache
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Core\obj\Debug\CMS.Core.Migrations._first.resources
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Core\obj\Debug\CMS.Core.Migrations.second.resources
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Core\obj\Debug\CMS.Core.csproj.GenerateResource.cache
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Core\obj\Debug\CMS.Core.csproj.CoreCompileInputs.cache
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Core\obj\Debug\CMS.Core.csproj.CopyComplete
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Core\obj\Debug\CMS.Core.dll
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Core\obj\Debug\CMS.Core.pdb
+C:\Users\BİLGEADAM\Desktop\MyCMS\CMS.Core\obj\Debug\CMS.Core.Migrations.third.resources
+C:\Users\kadri\source\repos\MyCMS\CMS.Core\bin\Debug\CMS.Core.dll.config
+C:\Users\kadri\source\repos\MyCMS\CMS.Core\bin\Debug\CMS.Core.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.Core\bin\Debug\CMS.Core.pdb
+C:\Users\kadri\source\repos\MyCMS\CMS.Core\bin\Debug\CMS.Common.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.Core\bin\Debug\CMS.Domain.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.Core\bin\Debug\EntityFramework.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.Core\bin\Debug\CMS.Common.pdb
+C:\Users\kadri\source\repos\MyCMS\CMS.Core\bin\Debug\CMS.Common.dll.config
+C:\Users\kadri\source\repos\MyCMS\CMS.Core\bin\Debug\CMS.Domain.pdb
+C:\Users\kadri\source\repos\MyCMS\CMS.Core\bin\Debug\CMS.Domain.dll.config
+C:\Users\kadri\source\repos\MyCMS\CMS.Core\bin\Debug\EntityFramework.xml
+C:\Users\kadri\source\repos\MyCMS\CMS.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kadri\source\repos\MyCMS\CMS.Core\obj\Debug\CMS.Core.csprojAssemblyReference.cache
+C:\Users\kadri\source\repos\MyCMS\CMS.Core\obj\Debug\CMS.Core.Migrations._first.resources
+C:\Users\kadri\source\repos\MyCMS\CMS.Core\obj\Debug\CMS.Core.Migrations.second.resources
+C:\Users\kadri\source\repos\MyCMS\CMS.Core\obj\Debug\CMS.Core.Migrations.third.resources
+C:\Users\kadri\source\repos\MyCMS\CMS.Core\obj\Debug\CMS.Core.csproj.GenerateResource.cache
+C:\Users\kadri\source\repos\MyCMS\CMS.Core\obj\Debug\CMS.Core.csproj.CoreCompileInputs.cache
+C:\Users\kadri\source\repos\MyCMS\CMS.Core\obj\Debug\CMS.Core.csproj.CopyComplete
+C:\Users\kadri\source\repos\MyCMS\CMS.Core\obj\Debug\CMS.Core.dll
+C:\Users\kadri\source\repos\MyCMS\CMS.Core\obj\Debug\CMS.Core.pdb
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\bin\Debug\CMS.Core.dll.config
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\bin\Debug\CMS.Core.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\bin\Debug\CMS.Core.pdb
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\bin\Debug\CMS.Common.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\bin\Debug\CMS.Domain.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\bin\Debug\EntityFramework.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\bin\Debug\CMS.Common.pdb
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\bin\Debug\CMS.Common.dll.config
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\bin\Debug\CMS.Domain.pdb
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\bin\Debug\CMS.Domain.dll.config
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\bin\Debug\EntityFramework.xml
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\obj\Debug\CMS.Core.csprojAssemblyReference.cache
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\obj\Debug\CMS.Core.Migrations._first.resources
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\obj\Debug\CMS.Core.Migrations.second.resources
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\obj\Debug\CMS.Core.Migrations.third.resources
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\obj\Debug\CMS.Core.csproj.GenerateResource.cache
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\obj\Debug\CMS.Core.csproj.CoreCompileInputs.cache
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\obj\Debug\CMS.Core.csproj.CopyComplete
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\obj\Debug\CMS.Core.dll
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\obj\Debug\CMS.Core.pdb
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\obj\Debug\CMS.Core.Migrations.fourth.resources
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\obj\Debug\CMS.Core.Migrations.fifth.resources
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\obj\Debug\CMS.Core.Migrations.sixth.resources
+C:\Users\kadri\source\repos\CMS Bacupss\MyCMS\CMS.Core\obj\Debug\CMS.Core.Migrations.seventh.resources
